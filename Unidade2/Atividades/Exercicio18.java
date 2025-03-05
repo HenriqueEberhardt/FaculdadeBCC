@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exe18 {
+public class Exercicio18 {
 
     /**
     * Este programa calcula o valor gasto com a compra de azulejos para cobrir uma parede.
