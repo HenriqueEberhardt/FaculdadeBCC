@@ -6,7 +6,7 @@ public class Exercicio04 {
     //Entradas: nota1, nota2, nota3
     //processo: media = nota1, nota2, nota3
     //saidas: media
- 
+    // teste: Foi utilizados os testes citados no enunciado 
     public static void main(String[] args) {
  
         Scanner scr = new Scanner(System.in);
