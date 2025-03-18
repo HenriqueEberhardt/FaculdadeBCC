@@ -6,6 +6,7 @@ public class Exercicio07 {
     //Entradas: qtd350, qtd600, qtd2
     //processo: total = qtd2 * 2 + qtd350 * 0,350 + qtd600 * 0,6
     //saidas: total
+    // teste: Foi utilizados os testes citados no enunciado
     public static void main(String[] args) {
         Scanner src = new Scanner(System.in);
         double qtd2, qtd350, qtd600, total;
