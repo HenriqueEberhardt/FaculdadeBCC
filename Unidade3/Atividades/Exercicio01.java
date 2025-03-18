@@ -6,6 +6,7 @@ public class Exercicio01 {
     // Entradas: valor1, valor2
     // processo: resultado = valor1 * valor2
     // saidas: resultado
+    // teste: Foi utilizados os testes citados no enunciado
     public static void main(String[] args) {
         Scanner src = new Scanner(System.in);
 
