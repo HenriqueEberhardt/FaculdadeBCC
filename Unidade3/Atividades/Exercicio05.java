@@ -11,6 +11,7 @@ public class Exercicio05 {
     // Entradas: qtdGalinhas, totalValor
     // processo: totalValor = qtdGalinhas * 11
     // saidas: totalValor
+    // teste: Foi utilizados os testes citados no enunciado
     public static void main(String[] args) {
         Scanner src = new Scanner(System.in);
         int qtdGalinhas, totalValor;
