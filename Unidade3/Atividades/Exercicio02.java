@@ -13,6 +13,7 @@ public class Exercicio02 {
     // Entradas: precoSapatos, precoSapatosDesconto, precoDesconto
     // processo: precoSapatoDesconto = precoSapatos * 0,88, precoDesconto = precoSapato - precoSapatoDesconto
     // saidas: precoDesconto, 
+    // teste: Foi utilizados os testes citados no enunciado
     public static void main(String[] args) {
         Scanner src = new Scanner(System.in);
         double precoDesconto, precoSapato, precoSapatoDesconto;
