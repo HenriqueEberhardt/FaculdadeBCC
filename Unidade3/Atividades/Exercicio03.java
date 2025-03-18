@@ -7,6 +7,7 @@ public class Exercicio03 {
     // Entradas: precoGasolina, valorPagamento, qtdCombustivel
     // processo: qtdCombustivel = valorPagamento / precoGasolina
     // saidas: qtdCombustivel
+    // teste: Foi utilizados os testes citados no enunciado
     public static void main(String[] args) {
         Scanner src = new Scanner(System.in);
         double precoGasolina, valorPagamento;
