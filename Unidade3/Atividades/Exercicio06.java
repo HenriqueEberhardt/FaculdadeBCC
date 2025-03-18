@@ -6,7 +6,7 @@ public class Exercicio06 {
     //Entradas: peso
     //processo: valor = (peso - 0,75) * 25
     //saidas: valor
-
+    // teste: Foi utilizados os testes citados no enunciado
     public static void main(String[] args) {
         Scanner src = new Scanner (System.in);
         double peso, valor;
