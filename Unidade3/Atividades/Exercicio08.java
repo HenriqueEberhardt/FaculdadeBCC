@@ -8,7 +8,7 @@ public class Exercicio08 {
     // Entradas: valorDol
     // processo: valorReal = valorDol * 5.65
     // saidas: valorReal
-    // teste: 
+    // teste: Foi utilizados os testes citados no enunciado
     public static void main(String[] args) {
         Scanner src = new Scanner(System.in);
         double valorDol, valorReal;
