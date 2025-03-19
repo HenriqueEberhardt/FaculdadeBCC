@@ -21,5 +21,6 @@ public class Exercicio05 {
         }
         System.out.println(logica);
 
+        src.close();
     }
 }
