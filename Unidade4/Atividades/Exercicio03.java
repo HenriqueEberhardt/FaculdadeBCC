@@ -20,5 +20,6 @@ public class Exercicio03 {
             System.out.println("O valor " + valor2 + " é maior do que o valor " + valor1);
         }
 
+        src.close();
     }
 }
