@@ -29,5 +29,6 @@ public class Exercicio01 {
         }
         System.out.println("O salário total é:"+salarioTotal);
 
+        src.close();
     }
 }
